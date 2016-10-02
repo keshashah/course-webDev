@@ -14,4 +14,5 @@ http://caniuse.com/
 #validator w3c
 https://validator.w3.org/
 
-
+#css-styles with same content
+http://www.csszengarden.com/
